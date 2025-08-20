@@ -261,7 +261,7 @@ src/
 
 
 <details>
-<summary>1.문제점 (Problem)<</summary>
+<summary>1.문제점 (Problem)</summary>
 
 이번 프로젝트에서 가장 크게 부딪힌 문제는 **기획 의도 문제**였습니다.
 <p align="center">
